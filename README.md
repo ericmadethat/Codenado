@@ -23,7 +23,7 @@
 
 # CODENADO
 
-Online code collaboration tool
+Online code collaboration tool. Users can code, video conference, chat, and draw on a blackboard together in real-time.
 
 
 # Setup & Installation
